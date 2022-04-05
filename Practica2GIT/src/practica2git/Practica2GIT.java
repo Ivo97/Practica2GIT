@@ -15,6 +15,7 @@ public class Practica2GIT {
 
     double uf1, uf2, uf3;
     double acu1, acu2, acu3, def;
+    String prueba;
     //utilizames ecaner para poder introducir datos
     Scanner entrada = new Scanner(System.in);
 
