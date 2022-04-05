@@ -131,5 +131,6 @@ public class Practica2GIT {
         fc.aprobado();
     }
     //Esto es una prueba para ver los cambios.
-    
+    //Esta es una prueba para ver que se han realizado los cambios en el GIT
+     
 }
